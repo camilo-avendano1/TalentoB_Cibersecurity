@@ -47,3 +47,5 @@ tzdata==2023.3
 wcwidth==0.2.8
 pandas==2.1.2
 openpyxl==3.1.2
+pyspark==3.5.0
+findspark==2.0.1
